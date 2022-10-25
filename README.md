@@ -1,4 +1,4 @@
-# Oi-amor
+# Lucassabino0454
 <div align="center">
   <a href="https://github.com/Lucassabino0454">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassabino0454&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
