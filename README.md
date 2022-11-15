@@ -13,12 +13,21 @@
 Linguagens utilizadas:  
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  </div>
-          
-  ##
-  <div> 
+ 
+ INTEGRANTES
+
+- Guilherme Bemvindo Santana Martins / Ciência da Computação / UC22200275
+
+- Daniel Ribeiro Teles / Ciência da Computação / UC22200356 <div>
+<a href="https://www.linkedin.com/in/daniel-ribeiro-teles-a48846236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- Lucas Sabino Assis / Ciência da Computação / UC22103214  <div>
   <a href="https://www.linkedin.com/in/lucas-sabino-b38056255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- Gabriel Gomes Carvalho / Ciência da Computação / UC22103194
+  
  </div>
+         
+
  
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=gabbgc&theme=gotham&hide_border=true&area=true)
  
-![Snake animation](https://github.com/Lucassabino0454/Lucassabino0454/blob/output/github-contribution-grid-snake.svg))
+![Snake animation](https://github.com/Lucassabino0454/Lucassabino0454/blob/output/github-contribution-grid-snake.svg)
